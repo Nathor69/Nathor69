@@ -1,6 +1,6 @@
-### Hi my name is Nathor, i like computing and coding💻h
-- I'm learning python with internet
+### Hi my name is Nathor, i like computing and coding💻
 - I have start coding with HTML/CSS
+- I'm learning python
 <br />
 
 ### Languages and Tools:
