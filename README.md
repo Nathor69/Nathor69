@@ -13,7 +13,8 @@
 <img align="left" alt="The Gimp" width="26px" src="https://logonoid.com/images/gimp-logo.png">
 <img align="left" alt="Adobe Premiere Pro" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-0.png">
 <br />
-### Contact me
+
+### Contact me:
 <br />
 Mail: nathanmussard69@gmail.com
 <br />
