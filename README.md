@@ -12,8 +12,12 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png">
 <img align="left" alt="The Gimp" width="26px" src="https://logonoid.com/images/gimp-logo.png">
 <img align="left" alt="Adobe Premiere Pro" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-0.png">
-
+<br />
 ### Contact me
+<br />
 Mail: nathanmussard69@gmail.com
+<br />
 PGP: 0xFBA39271AE83F51B
+<br />
+
 Twitter: Nathor69
