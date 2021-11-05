@@ -15,10 +15,8 @@
 <br />
 
 ### Contact me:
-<br />
 Mail: nathanmussard69@gmail.com
 <br />
 PGP: 0xFBA39271AE83F51B
 <br />
-
 Twitter: Nathor69
