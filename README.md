@@ -12,4 +12,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png">
 <img align="left" alt="The Gimp" width="26px" src="https://logonoid.com/images/gimp-logo.png">
 <img align="left" alt="Adobe Premiere Pro" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-0.png">
-![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathor69&hide_border=true&hide=stars&theme=dark&show_icons=true&layout=compact)
+
+### Contact me
+Mail: nathanmussard69@gmail.com
+PGP: 0xFBA39271AE83F51B
+Twitter: Nathor69
